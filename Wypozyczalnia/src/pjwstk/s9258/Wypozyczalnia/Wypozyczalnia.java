@@ -5,11 +5,11 @@ public class Wypozyczalnia {
 
 public Kajak_1 WypozyczKajak 
 
-(int ilosc, int czas, int sztuk)
+(int cena, int czas, int sztuk)
 
 {
 
-	return new Kajak_1(ilosc, czas, sztuk);
+	return new Kajak_1(cena, czas, sztuk);
 
 }
 }
